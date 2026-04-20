@@ -7,7 +7,7 @@ const NBAStars = {
     2021: "Kevin Durant",
     2022: "Giannis Antetokounmpo",
     2023: "Stephen Curry",
-    2024: "Luka Dončić",
+    2024: "Pamkutya",
     2025: "Nikola Jokić"
 }
 
